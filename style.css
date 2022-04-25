@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0%;
+}
+.page{
+  margin: 20px 10px ;
+  background-color: #9b9ba8;
+  min-height: 100vh;
+  border-radius: 15px;
+}
+.page h1, h2{
+  padding: 25px;
+  text-align: center;
+}
+.img-container{
+  border-radius: 15px;
+  width: 90%;
+  background-color: white;
+  height: 70vh;
+  margin: 25px auto;
+  padding: 15px;
+}
+.img{
+  background: url('https://thelogicalindian.com/h-upload/2020/10/15/183601-whatsapp-image-2020-10-15-at-43100-pm.jpeg') center/cover ;
+  height: 85%;
+}
+.para{
+  width: 75%;
+  margin: 0 auto;
+  padding: 25px;
+}
+table{
+  margin:  auto;
+  padding: 25px;
+}
+
+
+th{
+  padding: 12px;
+  text-align: center;
+}
+td{
+  padding: 7px;
+  text-align: center;
+}
+.quote{
+  width: 80%;
+  padding: 40px;
+  margin: 0 auto;
+  text-align: center;
+}
+.span
+{
+  letter-spacing: 2px;
+  word-spacing: 7px;
+}
